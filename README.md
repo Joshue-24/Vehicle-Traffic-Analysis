@@ -13,13 +13,13 @@ Este proyecto implementa un sistema de conteo y seguimiento de vehículos en tie
 ## Evolución del Proyecto
 
 ### Primera Versión: Detección Básica
-[Imagen: Trafic_1.png - Captura de la interfaz inicial del sistema]
+Trafic_1.png
 
 ### Segunda Versión: Detección con Direcciones
-[Imagen: Trafic_2.jpeg - Sistema mostrando detecciones con vectores de dirección]
+trafic_2.jpeg
 
 ### Versión Final: Sistema Completo
-[Imagen: Trafic_3.jpeg - Versión final con todas las funcionalidades implementadas]
+trafic_3.jpeg
 
 ## Requisitos del Sistema
 
