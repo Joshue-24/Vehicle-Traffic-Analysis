@@ -121,10 +121,6 @@ El sistema genera un archivo CSV con las siguientes métricas por vehículo dete
 
 ¡Las contribuciones son bienvenidas! Por favor, abre un issue para discutir los cambios que te gustaría realizar.
 
-## 📄 Licencia
-
-Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
-
 ## ✉️ Contacto
 
 Para consultas o soporte, por favor abre un issue en el repositorio.
