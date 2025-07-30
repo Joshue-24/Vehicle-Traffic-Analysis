@@ -16,10 +16,12 @@ Sistema avanzado de monitoreo y análisis de tráfico vehicular en tiempo real q
 
 ### Primera Versión: Detección Básica
 ![Detección Inicial](trafic_3.jpeg)
+
 *Primera versión mostrando la detección básica de vehículos.*
 
 ### Versión Final: Sistema Completo
 ![Sistema Completo](trafic_2.jpeg)
+
 *Versión final con seguimiento, conteo y análisis de direcciones.*
 
 ## 🛠️ Requisitos Técnicos
