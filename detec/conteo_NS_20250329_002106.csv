@@ -1,0 +1,7 @@
+Intervalo,NORTE-0,NORTE-Auto,NORTE-Bus,NORTE-Camion,NORTE-Camioneta,NORTE-Coaster,NORTE-Combi,NORTE-Moto,NORTE-MotoTaxi,NORTE-TrailerM,NORTE-TrailerX,SUR-0,SUR-Auto,SUR-Bus,SUR-Camion,SUR-Camioneta,SUR-Coaster,SUR-Combi,SUR-Moto,SUR-MotoTaxi,SUR-TrailerM,SUR-TrailerX
+0-30s,0,5,0,0,0,0,0,0,0,0,0,0,3,0,1,2,0,1,0,0,0,0
+30-60s,0,5,0,0,0,0,1,0,0,0,0,0,4,0,0,1,0,0,1,0,0,0
+60-90s,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90-120s,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+120-150s,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+150-180s,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

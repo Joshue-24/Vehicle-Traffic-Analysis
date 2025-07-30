@@ -1,0 +1,42 @@
+# Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
+# Default Ultralytics settings for ByteTrack tracker when using mode="track"
+# For documentation and examples see https://docs.ultralytics.com/modes/track/
+# For ByteTrack source code see https://github.com/ifzhang/ByteTrack
+
+######confi normal
+tracker_type: bytetrack # tracker type, ['botsort', 'bytetrack']
+track_high_thresh: 0.25 # threshold for the first association
+track_low_thresh: 0.1 # threshold for the second association
+new_track_thresh: 0.25 # threshold for init new track if the detection does not match any tracks
+track_buffer: 30 # buffer to calculate the time when to remove tracks
+match_thresh: 0.8 # threshold for matching tracks
+fuse_score: True # Whether to fuse confidence scores with the iou distances before matching
+min_box_area: 10  # threshold for min box areas(for tracker evaluation, not used for now)
+
+##### confi optimizada
+#tracker_type: bytetrack  # Mantenemos ByteTrack como tracker
+# Umbrales de detección optimizados
+#track_high_thresh: 0.3    # Aumentado para mayor precisión en primera asociación
+#track_low_thresh: 0.2     # Aumentado para reducir falsos positivos
+#new_track_thresh: 0.3     # Aumentado para evitar tracks espurios
+# Parámetros de seguimiento optimizados
+#track_buffer: 25          # Reducido para mejor respuesta en tiempo real
+#match_thresh: 0.9         # Aumentado para asociaciones más precisas
+#fuse_score: True         # Mantener fusión de scores con IOU
+# Parámetros adicionales para optimización
+#min_box_area: 100        # Filtrar detecciones pequeñas
+#max_time_lost: 15        # Frames máximos para mantener tracks perdidos
+#delta_t: 3               # Frames para predicción de movimiento
+
+###confi optimizada3
+
+# tracker_type: bytetrack
+# track_high_thresh: 0.4
+# track_low_thresh: 0.2
+# new_track_thresh: 0.4
+# track_buffer: 25
+# match_thresh: 0.9
+# fuse_score: True
+# min_box_area: 100
+# max_time_lost: 15
